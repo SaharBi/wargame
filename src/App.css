@@ -1,0 +1,45 @@
+#header{
+  font-size: 30px;
+  color: cornflowerblue;
+  text-shadow: darkblue 2px 2px;
+}
+
+.lbl{
+  font-size: 35px;
+  color: black;
+}
+
+.card{
+  background-color: gray;
+  height: 200px;
+  padding-top: 60px;
+  font-size: 50px;
+}
+
+.container{
+  text-align: center;
+  align-items: center;
+}
+
+.input{
+  text-align: center;
+}
+
+#header2{
+  color: red;
+  font-size: 100px;
+  margin-top: 100px;
+}
+#header3{
+  color: red;
+  font-size: 50px;
+  margin-top: 100px;
+}
+.btn{
+  background-color: cornflowerblue;
+  border-radius: 10px;
+  color: white;
+  padding: 20px;
+  padding-left: 40px;
+  padding-right: 40px;
+}

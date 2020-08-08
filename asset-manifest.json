@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/wargame/static/css/main.e251d4b4.chunk.css",
+    "main.js": "/wargame/static/js/main.2a007054.chunk.js",
+    "main.js.map": "/wargame/static/js/main.2a007054.chunk.js.map",
+    "runtime-main.js": "/wargame/static/js/runtime-main.6de7e5aa.js",
+    "runtime-main.js.map": "/wargame/static/js/runtime-main.6de7e5aa.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/wargame/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.956aceb3.chunk.js": "/wargame/static/js/2.956aceb3.chunk.js",
+    "static/js/2.956aceb3.chunk.js.map": "/wargame/static/js/2.956aceb3.chunk.js.map",
+    "index.html": "/wargame/index.html",
+    "precache-manifest.afb4c832de8ca39755812b75a01d63a4.js": "/wargame/precache-manifest.afb4c832de8ca39755812b75a01d63a4.js",
+    "service-worker.js": "/wargame/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/wargame/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.e251d4b4.chunk.css.map": "/wargame/static/css/main.e251d4b4.chunk.css.map",
+    "static/js/2.956aceb3.chunk.js.LICENSE.txt": "/wargame/static/js/2.956aceb3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6de7e5aa.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.956aceb3.chunk.js",
+    "static/css/main.e251d4b4.chunk.css",
+    "static/js/main.2a007054.chunk.js"
+  ]
+}
